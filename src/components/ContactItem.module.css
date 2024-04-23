@@ -33,7 +33,7 @@
     height: 35px;
     background-color: #fff;
     border: none;
-    border-radius:50% ;
+    border-radius:50% ; 
     cursor: pointer;
     transition: 0.1s all ease-in-out;
 }

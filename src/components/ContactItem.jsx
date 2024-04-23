@@ -13,7 +13,7 @@ const ContactItem = ({
         </p>
         <p>
           <span>📧</span>
-          {email}
+          {email} 
         </p>
         <p>
           <span>📞</span>

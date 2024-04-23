@@ -21,7 +21,7 @@ const ContactsList = ({ contacts, deleteHandler }) => {
         <p className={styles.message}>No Contacts Yet!</p>
       )}
     </div>
-  );
+  ); 
 };
 
 export default ContactsList;

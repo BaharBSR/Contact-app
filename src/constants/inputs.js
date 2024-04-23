@@ -6,4 +6,4 @@ const inputs = [
     { type: "number", name: "phone", placeholder: "Phone" },
   ];
   
-  export default inputs;
+  export default inputs; 
